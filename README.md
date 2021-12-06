@@ -4,8 +4,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanka </h1>
 
 
+  I am Priyanka kumari, currently pursuing my B.Tech degree in Information Technology from Asansol Engineering College. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
   
-  Hi I am  Priyanka !✋
  
 - 🌱 I’m currently learning  DSA
 - 🤔 I’m looking for help with open soure
