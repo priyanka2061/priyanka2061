@@ -8,13 +8,14 @@
   
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
   
- 
+
 - 🌱 I’m currently learning  DSA
 - 🤔 I’m looking for help with open soure
 - 💬 Ask me about anything
 - 📫 How to reach me:Linkedl🤝
 - 😄 Pronouns: She/Her
-🚀 Languages and Tools:
+
+## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href= "https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  
