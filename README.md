@@ -14,7 +14,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me:Linkedl🤝
 - 😄 Pronouns: She/Her
-## 🚀 Languages
+🚀 Languages and Tools:
 
 <p align="left"> 
     <a href= "https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  
@@ -23,8 +23,7 @@
     <a href="https://www.c.com" target="_blank">  <img src="https://img.icons8.com/color/48/000000/c.png"/>
  
 </p>
-<p6> 
- Tools:</p6>
+
 
   
       
