@@ -18,7 +18,7 @@
     <a href= "https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  
                                                      <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
     <a href= "https://www.c++.com" target="_blank"> < <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.pn
-    <a href="https://www.c.com"target="blank">  <img src="https://img.icons8.com/cute-clipart/64/000000/c.png"/>
+    
 
       
     
