@@ -21,7 +21,9 @@
                                                      <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
     <a href= "https://www.c++.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <a href="https://www.c.com" target="_blank">  <img src="https://img.icons8.com/color/48/000000/c.png"/>
-    <b> Tools </b>
+ 
 </p>
-
+<p> 
+  <b> Tools </b> </p>
+  
       
