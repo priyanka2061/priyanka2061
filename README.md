@@ -5,6 +5,7 @@
 
 
   I am Priyanka kumari, currently pursuing my B.Tech degree in Information Technology from Asansol Engineering College. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+  
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
  
 - 🌱 I’m currently learning  DSA
